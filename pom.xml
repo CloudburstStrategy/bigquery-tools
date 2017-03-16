@@ -99,9 +99,9 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray-cloudburststrategy-maven</id>
-            <name>CloudburstStrategy-maven</name>
-            <url>https://api.bintray.com/maven/cloudburststrategy/maven/com.cloudburst.bigquery-tools/;publish=1</url>
+            <id>bintray-cloudburst-maven</id>
+            <name>cloudburst-maven</name>
+            <url>https://api.bintray.com/maven/cloudburst/maven/com.cloudburst.bigquery-tools/;publish=1</url>
         </repository>
     </distributionManagement>
 
